@@ -1,4 +1,4 @@
-# Algo2. Home work 7
+# Algo2. Home work 8
 ## "Flow Control and Rate Limiting Algorithms"
 
 ### Task 1. Implementation of Rate Limiter Using Sliding Window Algorithm for Chat Message Frequency Control
